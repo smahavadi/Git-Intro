@@ -2,3 +2,4 @@ This is an example!
 <<<<<<< HEAD
 I made a change - Valli
 - This is another change that I made
+I am going to branch something
