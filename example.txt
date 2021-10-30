@@ -1,3 +1,7 @@
 This is an example!
+<<<<<<< HEAD
 I made a change - Valli
 - This is another change that I made
+=======
+I made a change - Valli
+>>>>>>> 319a31a7adae066404cf0fecde0e47e6903989ba
